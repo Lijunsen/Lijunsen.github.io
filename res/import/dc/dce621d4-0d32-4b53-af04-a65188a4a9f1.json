@@ -1,0 +1,258 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "Havana",
+  "json": [
+    {
+      "code": 0,
+      "edit_cell": null,
+      "path": 1,
+      "type": 0,
+      "time": 0
+    },
+    {
+      "code": 1,
+      "edit_cell": null,
+      "path": 2,
+      "type": 0,
+      "time": 2.2857142857142856
+    },
+    {
+      "code": 2,
+      "edit_cell": null,
+      "path": 0,
+      "type": 0,
+      "time": 4.571428571428571
+    },
+    {
+      "code": 3,
+      "edit_cell": null,
+      "path": 2,
+      "type": 0,
+      "time": 6.857142857142857
+    },
+    {
+      "code": 4,
+      "edit_cell": null,
+      "path": 3,
+      "type": 0,
+      "time": 9.142857142857142
+    },
+    {
+      "code": 5,
+      "edit_cell": null,
+      "path": 1,
+      "type": 0,
+      "time": 11.428571428571429
+    },
+    {
+      "code": 6,
+      "edit_cell": null,
+      "path": 3,
+      "type": 1,
+      "time": 13.714285714285714
+    },
+    {
+      "code": 7,
+      "edit_cell": null,
+      "path": 1,
+      "type": 0,
+      "time": 16
+    },
+    {
+      "code": 8,
+      "edit_cell": null,
+      "path": 2,
+      "type": 0,
+      "time": 18.285714285714285
+    },
+    {
+      "code": 9,
+      "edit_cell": null,
+      "path": 1,
+      "type": 3,
+      "time": 20.571428571428573
+    },
+    {
+      "code": 10,
+      "edit_cell": null,
+      "path": 1,
+      "type": 0,
+      "time": 22.857142857142858
+    },
+    {
+      "code": 11,
+      "edit_cell": null,
+      "path": 0,
+      "type": 0,
+      "time": 25.142857142857142
+    },
+    {
+      "code": 12,
+      "edit_cell": null,
+      "path": 1,
+      "type": 0,
+      "time": 27.428571428571427
+    },
+    {
+      "code": 13,
+      "edit_cell": null,
+      "path": 2,
+      "type": 1,
+      "time": 29.714285714285715
+    },
+    {
+      "code": 14,
+      "edit_cell": null,
+      "path": 0,
+      "type": 0,
+      "time": 32
+    },
+    {
+      "code": 15,
+      "edit_cell": null,
+      "path": 2,
+      "type": 0,
+      "time": 34.285714285714285
+    },
+    {
+      "code": 16,
+      "edit_cell": null,
+      "path": 1,
+      "type": 0,
+      "time": 36.57142857142857
+    },
+    {
+      "code": 17,
+      "edit_cell": null,
+      "path": 0,
+      "type": 0,
+      "time": 38.857142857142854
+    },
+    {
+      "code": 18,
+      "edit_cell": null,
+      "path": 2,
+      "type": 0,
+      "time": 41.142857142857146
+    },
+    {
+      "code": 19,
+      "edit_cell": null,
+      "path": 3,
+      "type": 1,
+      "time": 43.42857142857143
+    },
+    {
+      "code": 20,
+      "edit_cell": null,
+      "path": 2,
+      "type": 2,
+      "time": 45.714285714285715
+    },
+    {
+      "code": 21,
+      "edit_cell": null,
+      "path": 2,
+      "type": 0,
+      "time": 48
+    },
+    {
+      "code": 22,
+      "edit_cell": null,
+      "path": 1,
+      "type": 3,
+      "time": 50.285714285714285
+    },
+    {
+      "code": 23,
+      "edit_cell": null,
+      "path": 1,
+      "type": 3,
+      "time": 52.57142857142857
+    },
+    {
+      "code": 24,
+      "edit_cell": null,
+      "path": 2,
+      "type": 0,
+      "time": 54.857142857142854
+    },
+    {
+      "code": 25,
+      "edit_cell": null,
+      "path": 1,
+      "type": 0,
+      "time": 57.142857142857146
+    },
+    {
+      "code": 26,
+      "edit_cell": null,
+      "path": 0,
+      "type": 1,
+      "time": 59.42857142857143
+    },
+    {
+      "code": 27,
+      "edit_cell": null,
+      "path": 2,
+      "type": 0,
+      "time": 61.714285714285715
+    },
+    {
+      "code": 28,
+      "edit_cell": null,
+      "path": 3,
+      "type": 0,
+      "time": 64
+    },
+    {
+      "code": 29,
+      "edit_cell": null,
+      "path": 1,
+      "type": 0,
+      "time": 66.28571428571429
+    },
+    {
+      "code": 30,
+      "edit_cell": null,
+      "path": 2,
+      "type": 0,
+      "time": 68.57142857142857
+    },
+    {
+      "code": 31,
+      "edit_cell": null,
+      "path": 1,
+      "type": 0,
+      "time": 70.85714285714286
+    },
+    {
+      "code": 32,
+      "edit_cell": null,
+      "path": 2,
+      "type": 2,
+      "time": 73.14285714285714
+    },
+    {
+      "code": 33,
+      "edit_cell": null,
+      "path": 2,
+      "type": 1,
+      "time": 75.42857142857143
+    },
+    {
+      "code": 34,
+      "edit_cell": null,
+      "path": 3,
+      "type": 0,
+      "time": 77.71428571428571
+    },
+    {
+      "code": 35,
+      "edit_cell": null,
+      "path": 1,
+      "type": 3,
+      "time": 80
+    }
+  ]
+}
