@@ -2042,7 +2042,7 @@ window.__require = function e(t, n, r) {
         }
       };
       PreviewMode.prototype.update = function(dt) {
-        this.game.getComponent(cc.AudioSource).isPlaying && (this.baseline.getComponentInChildren(cc.Label).string = this.game.getComponent(cc.AudioSource).getCurrentTime().toFixed(1) + "/" + this.game.getComponent(cc.AudioSource).getDuration().toFixed(2));
+        this.game.getComponent(cc.AudioSource).isPlaying && (this.baseline.getComponentInChildren(cc.Label).string = this.game.getComponent(cc.AudioSource).getCurrentTime().toFixed(2) + "/" + this.game.getComponent(cc.AudioSource).getDuration().toFixed(2));
       };
       __decorate([ property(cc.Node) ], PreviewMode.prototype, "game", void 0);
       __decorate([ property(cc.Node) ], PreviewMode.prototype, "Player", void 0);
